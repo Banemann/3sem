@@ -1,0 +1,28 @@
+.card{
+    display: list-item;
+    justify-content: center;
+}
+
+img{
+    width: 25%;
+}
+
+main{
+    margin: 10%;
+    justify-content: center;
+    display: flex;
+}
+
+.headernav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#breadcrumb-list{
+    display: flex;
+    margin: 1%;
+}
+
+button{
+    margin: 1%;
+}
