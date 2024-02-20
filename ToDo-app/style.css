@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.list{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #9eecc3, #2079ff);
+    padding: 10px;
+}
