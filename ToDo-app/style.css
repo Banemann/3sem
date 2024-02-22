@@ -24,7 +24,7 @@
 .do {
     display: flex;
     align-items: center;
-    margin: 0 42.6% 7%;
+    margin: 0 46% 7%;
 }
 
 .donelist{
@@ -39,7 +39,7 @@
 .done {
     display: flex;
     align-items: center;
-    margin: 10% 42.6% 7%;
+    margin: 10% 44% 7%;
 }
 
 .row {
