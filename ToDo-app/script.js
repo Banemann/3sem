@@ -1,6 +1,6 @@
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
-const doneList = document.getElementById("done-list");
+const doneList = document.getElementById("list-container2");
 const button = document.getElementById("add");
 
 
@@ -51,3 +51,5 @@ function removeTask(e) {
     const task = e.currentTarget.parentElement;
     task.remove();
 }
+
+

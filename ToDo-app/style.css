@@ -9,24 +9,34 @@
     min-height: 100vh;
     background: linear-gradient(135deg, #9eecc3, #2079ff);
     padding: 10px;
+    display: flex;
 }
 
 .todolist {
     width: 100%;
-    max-width: 800px;
+    max-width: 1200px;
     background: #fff;
-    margin: 100px auto 20px;
+    margin: 100px 10% 50px;
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
 
-.todolist h2.do {
+.do {
     display: flex;
     align-items: center;
     margin: 0 42.6% 7%;
 }
 
-.todolist h2.done {
+.donelist{
+    width: 100%;
+    max-width: 400px;
+    background: #fff;
+    margin: 300px 5% 50px;
+    padding: 1px 30px 70px;
+    border-radius: 10px;
+}
+
+.done {
     display: flex;
     align-items: center;
     margin: 10% 42.6% 7%;
